@@ -1,0 +1,179 @@
+Biodata of Sudharsan K
+
+Personal Information:
+
+Name:  Sudharsan K
+Date of Birth: Sep 09, 2002
+Gender: Male
+Nationality: Indian
+Marital Status: Single
+Address: 2B, Thenbagam, Ponbethi, Avudayarkoil, Pudukkottai - 61629
+Contact Information:
+Email: sudharsan3399@gmail.com
+Phone: +91 6379462083
+
+Physical Attributes:
+
+Height: 5 feet 11 inch (180cm)
+Weight: 176 lbs (80 kg)
+Blood Group: O+
+Eye Color: Black
+Hair Color: Black
+
+Health Metrics:
+
+Blood Pressure: 120/80 mmHg
+Heart Rate: 72 bpm
+BMI: 24.7
+Allergies: None
+Medical Conditions: None
+
+Sports and Hobbies:
+
+Sports:
+* Kho Kho: Played at college level, continue to play recreationally. Enjoy participating in local tournaments.
+* Running: Regularly participate in local 5K and 10K races. Completed two half-marathons and currently training for a full marathon.
+* Cycling: Enjoy long-distance cycling trips on weekends. Participated in various charity cycling events.
+* Weightlifting: Avid weightlifter. Follows PUSH-PULL-LEG workout routine. Doesn't like to do SQUATS, DEADLIFTS, BARBELL BENCH PRESS. Trains 6 times a week. Currently focusing on increasing weight while staying lean with a bodyfat percentage less than 15.
+
+Hobbies:
+* Technology: Keen interest in the latest tech trends and gadgets. Frequently attend tech meetups and conferences to stay updated with industry advancements.
+* Traveling: Love exploring new cultures and places. Have traveled to over 20 cities and plan annual trips to new destinations.
+
+Education:
+
+Bachelor of Engineering in Computer Science, Coimbatore Institute of Technology, 2024(Graduated)
+Courses Completed:
+C Programming - O
+Data Structures and Algorithms – B+
+Machine Learning - A
+Artificial Intelligence - A
+Database Management Systems - A
+Software Engineering - A
+Computer Networks - B
+Operating Systems – A
+
+Professional Experience:
+
+SQL Developer, EXL Service, Chennai 	                                                                                                                      Jun 2024 - Present
+•	Designed and optimized relational databases for complex insurance claim scenarios, reducing query execution time by 12% through ER modeling and indexing.
+•	Implemented ETL workflows using SQL Server Integration Services (SSIS), streamlining data extraction, transformation, and loading processes and reducing ETL runtime by 5%.
+•	Developed and refined SQL queries and stored procedures, decreasing query execution time by 10%.
+•	Automated routine database tasks with SQL Agent Jobs and PowerShell scripts, cutting manual intervention time by 20%.
+
+Skills:
+
+•	 Programming Languages: Python, Java, C, C++, R, and PowerShell
+•	Database Technologies: MySQL, PostgreSQL, MongoDB
+•	Tools & Frameworks: Flask, Firebase, Figma, Wireshark, VSCode, Canva
+•	Operating Systems: Windows, Unix, Ubuntu
+•	Core Skills: Data Structures and Algorithms, Artificial Intelligence (AI) and Machine Learning (ML), Computer Architecture, Software Engineering, Operating Systems, Database Management Systems (DBMS), Principles of Compiler Design.
+
+Research Interests:
+* Exploring new techniques in algorithm optimization to reduce time and space complexity for large-scale data processing.
+* Investigating advanced algorithmic strategies for dynamic data structures to improve performance in real-time applications.
+* Developing specialized algorithms for computational geometry to solve problems in fields like graphics, robotics, and geographic information systems (GIS).
+* Optimizing graph algorithms for better performance in network analysis, pathfinding, and social media analytics.
+SUDHARSAN K¬¬¬¬¬
+Phone No. +91 6379462083 | Email ID: sudharsan3399@gmail.com | Github: SudharsanKarthikeyan 
+
+ACADEMIC QUALIFICATION
+Bachelor of Engineering (Computer Science and Engineering)                                                                                            Nov 2020 - May 2024
+Coimbatore Institute of Technology, Anna University, Coimbatore, Tamil Nadu, India | CGPA: 8.54/10
+
+WORK EXPERIENCE
+SQL Developer, EXL Service, Chennai 	                                                                                                                      Jun 2024 - Present
+•	Designed and optimized relational databases for complex insurance claim scenarios, reducing query execution time by 12% through ER modeling and indexing.
+•	Implemented ETL workflows using SQL Server Integration Services (SSIS), streamlining data extraction, transformation, and loading processes and reducing ETL runtime by 5%.
+•	Developed and refined SQL queries and stored procedures, decreasing query execution time by 10%.
+•	Automated routine database tasks with SQL Agent Jobs and PowerShell scripts, cutting manual intervention time by 20%.
+INTERNSHIPS
+SQL SSIS Intern, EXL Health, Chennai                                                                                                                                 Dec 2023 – Jun 2024
+•	Executed complex SQL queries for efficient data retrieval from relational databases, ensuring accurate and timely access to information. 
+•	Developed and managed stored procedures and triggers, automating new user creation processes and decreasing data entry errors by 15%.
+
+System Developer, Tamil Nadu Newsprint and Paper Limited, Chennai                                                                            Jul 2022
+•	Conducted detailed requirements gathering & analysis to define system specifications; used Agile methodologies to align enhancements with user needs.
+•	Designed and developed modular components using object-oriented programming principles, ensuring seamless integration with the ERP system.
+•	Implemented and tested system integrations using RESTful APIs and middleware, ensuring smooth data flow and system interoperability.
+•	Optimized SQL queries and refactored code, achieving a 5% reduction in query execution times and a improvement in system throughput, which facilitated an increase in overall system responsiveness.
+ACADEMIC PROJECTS
+Title: GeekTrac	| Team size: 6								                  May 2024
+•	Created a unified coding platform to consolidate fragmented community interactions, enhancing progress tracking and contest updates.
+•	Designed and built a scalable backend with Flask and CouchDB for reliable performance.
+•	Implemented security features with Flask-Cors and PyJWT for secure requests and authentication.
+•	Used BeautifulSoup4 and lxml for real-time contest data scraping.
+•	Optimized platform performance with Werkzeug, Jinja2, and Click, ensuring a responsive interface.
+•	Delivered a cohesive solution that improves user engagement and supports coding enthusiasts of all levels.
+
+Title: AI-Generated NFT Marketplace Web Application | Team size: 6 		                                                 Dec 2023
+•	Created a cutting-edge NFT marketplace that integrates AI with digital art, allowing users to create unique images and mint them as NFTs.
+•	Implemented Stable Diffusion for innovative image generation and utilized the Tezos Blockchain for secure and efficient NFT transactions.
+•	Designed and built an intuitive user interface using React and Mantine, with FastAPI handling backend services and Beacon managing wallet integration.
+•	Leveraged IPFS for secure and decentralized storage of NFT assets, ensuring reliability and protection for digital content.
+
+Title: A CNN Based Architecture for Bird Audio Classification		 	                                                Sep 2023 
+•	Designed and implemented a robust audio classification system for identifying bird species using Convolutional Neural Networks (CNNs).
+•	Utilized spectrogram representations of audio recordings to effectively capture and analyze audio features.
+•	Developed and fine-tuned CNN models to achieve high accuracy in classifying various bird species based on audio data and enhanced model performance through iterative training.
+
+Title: PersonalGPT: A Retrieval-Augmented Generation (RAG) AI System | Team size: 1                                        May 2023 – Jul 2023
+•	Developed a robust system to upload and process personal documents, utilizing vector embeddings for efficient and scalable data retrieval.
+•	Created and optimized a vector database, improving document indexing efficiency by 40%, which resulted in a 50% reduction in search latency and a 30% increase in the accuracy of similarity-based search results.
+•	Integrated vector storage with a Large Language Model (LLM) to generate personalized responses based on user queries, enhancing the relevance and accuracy of information retrieval.
+•	Designed and implemented an interactive chatbot interface, providing a seamless and intuitive user experience for effective information exchange.
+
+Title: MazePath Visualizer | Team size: 1 							                Mar 2022
+•	Implemented a Breadth-First Search (BFS) algorithm to find the shortest path in a maze.
+•	Developed a custom queue class in C++ to manage traversal states.
+•	Created a visual representation of the maze using graphics. h to display walls and paths interactively.
+
+•	PAPER PRESENTATION
+Title: A CNN-GRU Based Hybrid Architecture for Bird Video Classification		                           Nov 2023 
+•	Designed a hybrid architecture combining CNN and Gated Recurrent Units (GRU) for accurate bird species classification from video footage. 
+•	Objective: Developed a video classification system for identifying bird species using a fine-tuned MobileNetV2 model.
+•	Methodology: Enhanced a pre-trained MobileNetV2 model with a custom dataset of ~70,000 bird images, applying TensorFlow’s data augmentation techniques to improve model robustness.
+•	Technology: Employed Python, TensorFlow, Matplotlib, and NumPy for model development, data processing, and visualization.
+•	Integration: Successfully integrated the fine-tuned model into a video classification system to accurately identify bird species from video frames.
+
+TECHNICAL SKILLS
+•	Programming Languages: Python, Java, C, C++, R, and PowerShell
+•	Database Technologies: MySQL, PostgreSQL, MongoDB
+•	Tools & Frameworks: Flask, Firebase, Figma, Wireshark, VSCode, Canva
+•	Operating Systems: Windows, Unix, Ubuntu
+•	Core Skills: Data Structures and Algorithms, Artificial Intelligence (AI) and Machine Learning (ML), Computer Architecture, Software Engineering, Operating Systems, Database Management Systems (DBMS), Principles of Compiler Design.
+
+INDUSTRIAL VISIT
+Fablabs, Kerala Startup Mission Sept                                                                                                                        Sep 2023
+•	Gained hands-on learning in advanced laser cutting technologies, their applications in startup contexts, and integrating them into product development and prototyping, honing knowledge of modern manufacturing techniques and fostering innovation within the startup ecosystem
+
+EXTRACURRICULAR ACTIVITIES
+Event Coordinator Head, ASCII (Association of Department of Computer Science)	                                        2023 - 2024
+•	Led a team of 5 event coordinators, overseeing the planning and execution of 12 major events throughout the academic year.
+•	Implemented event management strategies and best practices, resulting in a 30% improvement in event feedback scores.
+Event Organizer, Muthamil Mandram(It focuses on promoting and nurturing the Tamil language and its cultural heritage.), CIT                                                                                                                                                   2023 - 2024
+•	Organized 6 major events to highlight Tamil linguistic heritage, engaging 1,000+ students and increasing the club's visibility by 25%.
+Active Volunteer, Youth Red Cross, CIT							       2021 - 2024
+•	Participated in 3 health drives, including blood donation camps and clean-up drives, impacting over 150 students and community members.
+•	Student Safety: Contributed to safety measures around schools, leading to enhanced awareness and participation in health initiatives.
+Deputy Speaker, KKC Youth Parliament                                                                                                                Jan 2023
+•	Played a key role in a national parliament simulation, engaging in debates and evaluations of 9 proposed bills, and educating 100+ students on the legislative process.
+Business Idea Development:								      Aug 2023
+•	Developed and presented an innovative courier service model to the Entrepreneurship Development Cell, which was approved and referred to TANCOIR for further development. The model proposes utilizing individuals traveling on the same route as the courier’s destination to facilitate deliveries. This approach aims to optimize delivery efficiency, reduce costs, and streamline logistics in metropolitan areas by leveraging existing travel routes and minimizing the need for dedicated courier personnel.
+Event Coordinator, ASCII (Association of Department of Computer Science)                                                   2022 - 2023
+•	Coordinated 12 industry talks with computer science professionals, providing insights to 300+ students about current market trends.
+•	CRYPTERA 23: Organized and conducted the National Level Symposium, attracting 1,500+ participants, including students, faculty, and industry experts; managed a team of 25+ event coordinators to ensure the event's success.
+Podcast Host and Content Writer, Kalam Knowledge Club, CIT                                                                        2022 - 2023
+•	Developed and presented 5 episodes of a podcast series on international and national affairs, reaching an audience of 500+ students.
+•	Conducted 2 interviews with emerging artists, which were featured in the podcast and inspired over 50 students.
+Yearly Magazine Coordinator, Ilamparavai (annual magazine), Muthamizh Mandram , CIT                        2022 – 2023
+•	Increased magazine submissions by 40% through targeted promotion efforts, leading to a more diverse and engaging publication.
+•	Coordinated a team of 20 editors, designers, and departmental representatives, ensuring publication of the magazine within a 3-month deadline.
+SPORTS
+•	Captain, KHO-KHO College Team: Led the team to victory at the inter-college alumni meet in June 2023.                                        2022 - 2023
+•	Torchbearer, Chellappan Vidya Mandir International School: Recognized for significant contributions to advancing the school's kho-kho team through regional clusters and outstanding performance in district-level competitions.                                                                              Feb 2018
+
+
+
+
+

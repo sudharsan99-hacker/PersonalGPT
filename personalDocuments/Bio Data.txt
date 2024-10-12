@@ -1,0 +1,76 @@
+Biodata of Sudharsan K
+
+Personal Information:
+
+Name:  Sudharsan K
+Date of Birth: Sep 09, 2002
+Gender: Male
+Nationality: Indian
+Marital Status: Single
+Address: 2B, Thenbagam, Ponbethi, Avudayarkoil, Pudukkottai - 61629
+Contact Information:
+Email: sudharsan3399@gmail.com
+Phone: +91 6379462083
+
+Physical Attributes:
+
+Height: 5 feet 11 inch (180cm)
+Weight: 176 lbs (80 kg)
+Blood Group: O+
+Eye Color: Black
+Hair Color: Black
+
+Health Metrics:
+
+Blood Pressure: 120/80 mmHg
+Heart Rate: 72 bpm
+BMI: 24.7
+Allergies: None
+Medical Conditions: None
+
+Sports and Hobbies:
+
+Sports:
+* Kho Kho: Played at college level, continue to play recreationally. Enjoy participating in local tournaments.
+* Running: Regularly participate in local 5K and 10K races. Completed two half-marathons and currently training for a full marathon.
+* Cycling: Enjoy long-distance cycling trips on weekends. Participated in various charity cycling events.
+* Weightlifting: Avid weightlifter. Follows PUSH-PULL-LEG workout routine. Doesn't like to do SQUATS, DEADLIFTS, BARBELL BENCH PRESS. Trains 6 times a week. Currently focusing on increasing weight while staying lean with a bodyfat percentage less than 15.
+
+Hobbies:
+* Technology: Keen interest in the latest tech trends and gadgets. Frequently attend tech meetups and conferences to stay updated with industry advancements.
+* Traveling: Love exploring new cultures and places. Have traveled to over 20 cities and plan annual trips to new destinations.
+
+Education:
+
+Bachelor of Engineering in Computer Science, Coimbatore Institute of Technology, 2024(Graduated)
+Courses Completed:
+C Programming - O
+Data Structures and Algorithms – B+
+Machine Learning - A
+Artificial Intelligence - A
+Database Management Systems - A
+Software Engineering - A
+Computer Networks - B
+Operating Systems – A
+
+Professional Experience:
+
+SQL Developer, EXL Service, Chennai 	                                                                                                                      Jun 2024 - Present
+•	Designed and optimized relational databases for complex insurance claim scenarios, reducing query execution time by 12% through ER modeling and indexing.
+•	Implemented ETL workflows using SQL Server Integration Services (SSIS), streamlining data extraction, transformation, and loading processes and reducing ETL runtime by 5%.
+•	Developed and refined SQL queries and stored procedures, decreasing query execution time by 10%.
+•	Automated routine database tasks with SQL Agent Jobs and PowerShell scripts, cutting manual intervention time by 20%.
+
+Skills:
+
+•	 Programming Languages: Python, Java, C, C++, R, and PowerShell
+•	Database Technologies: MySQL, PostgreSQL, MongoDB
+•	Tools & Frameworks: Flask, Firebase, Figma, Wireshark, VSCode, Canva
+•	Operating Systems: Windows, Unix, Ubuntu
+•	Core Skills: Data Structures and Algorithms, Artificial Intelligence (AI) and Machine Learning (ML), Computer Architecture, Software Engineering, Operating Systems, Database Management Systems (DBMS), Principles of Compiler Design.
+
+Research Interests:
+* Exploring new techniques in algorithm optimization to reduce time and space complexity for large-scale data processing.
+* Investigating advanced algorithmic strategies for dynamic data structures to improve performance in real-time applications.
+* Developing specialized algorithms for computational geometry to solve problems in fields like graphics, robotics, and geographic information systems (GIS).
+* Optimizing graph algorithms for better performance in network analysis, pathfinding, and social media analytics.
